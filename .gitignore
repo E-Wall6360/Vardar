@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Apple directory folder
+/.DS_Store
+
+# VSC index
+/.vscode
