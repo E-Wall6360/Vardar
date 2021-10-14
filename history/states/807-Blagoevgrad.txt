@@ -1,0 +1,24 @@
+state={
+	id=807
+	name="STATE_807"
+
+	history={
+		owner = MAC
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = BUL
+		add_core_of = MAC
+
+	}
+
+	provinces={
+		6857 6886 9818 
+	}
+	manpower=83740
+	buildings_max_level_factor=1.000
+	state_category=town
+}

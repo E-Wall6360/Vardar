@@ -1,0 +1,26 @@
+state={
+	id=815
+	name="STATE_815"
+
+	history={
+		owner = VOJ
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = YUG
+		add_core_of = SER
+		add_core_of = VOJ
+		add_core_of = CRO
+
+		set_demilitarized_zone = yes
+
+	}
+
+	provinces={
+		11577 11580 
+	}
+	manpower=684830
+	buildings_max_level_factor=1.000
+	state_category=town
+}
