@@ -1062,3 +1062,7 @@
  TUR_PROVISIONARY_neutrality:0 "Provisionary State of Anatolia"
  TRN_neutrality_DEF:0 "Turan"
  
+ ALB_ITA_subject:0 "Italian Protectorate of Albania"
+ ALB_ITA_subject_DEF:0 "the Italian Protectorate of Albania"
+ MNT_ITA_subject:0 "Italian Governate of Montenegro"
+ MNT_ITA_subject_DEF:0 "the Italian Governate of Montenegro"
