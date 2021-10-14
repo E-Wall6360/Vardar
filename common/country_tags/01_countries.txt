@@ -1,0 +1,3 @@
+KOS	= "countries/Kosovo.txt"
+VOJ	= "countries/Vojvodina.txt"
+SRP	= "countries/Srpska.txt"

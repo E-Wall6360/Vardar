@@ -1,0 +1,25 @@
+state={
+	id=821
+	name="STATE_821"
+
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = YUG
+		add_claim_by = CRO
+		add_core_of = BOS
+		add_core_of = HRZ
+		add_core_of = SRP
+
+	}
+
+	provinces={
+		953 11845 
+	}
+	manpower=283630
+	buildings_max_level_factor=1.000
+	state_category=town
+}

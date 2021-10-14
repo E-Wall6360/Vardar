@@ -1,0 +1,23 @@
+state={
+	id=826
+	name="STATE_826"
+
+	history={
+		owner = CRO
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		add_core_of = YUG
+		add_core_of = CRO
+
+	}
+
+	provinces={
+		591 984 3601 6611 11901 
+	}
+	manpower=382460
+	buildings_max_level_factor=1.000
+	state_category=town
+}
