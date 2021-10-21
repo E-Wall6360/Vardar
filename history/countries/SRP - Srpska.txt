@@ -53,3 +53,25 @@ set_popularities = {
 	fascism = 35
 	communism = 20
 }
+
+create_country_leader = {
+	name = "MF HOI4"
+	desc = "MF_HOI4_DESC"
+	picture = "MF_HOI4.tga"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Novislav Đajić"
+	desc = "NOVISLAV_DAJIC_DESC"
+	picture = "based.tga"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		prince_of_terror
+	}
+}

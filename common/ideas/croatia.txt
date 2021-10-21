@@ -1,0 +1,41 @@
+ideas = {
+    country = {
+        jasenovac = {
+
+            picture = saf_history_of_segregation
+
+            allowed = {
+                original_tag = CRO
+            }
+
+            available = {
+                has_government = fascism
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                stability_factor = -0.05
+                war_support_factor = 0.02
+                weekly_manpower = -8000
+            }
+        }
+        minority_government = {
+
+
+            allowed = {
+                original_tag = CRO
+            }
+
+            available = {
+                has_government = fascism
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                stability_factor = -0.2
+            }
+        }
+    }
+}

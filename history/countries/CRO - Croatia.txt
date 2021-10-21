@@ -1,8 +1,17 @@
 ﻿capital = 109
 
-set_research_slots = 2
-
 oob = "CRO_YUG_independence"
+
+set_research_slots = 2
+set_stability = 0.6
+set_war_support = 0.7
+add_ideas = {
+	jasenovac
+	minority_government
+	war_economy
+	extensive_conscription
+	limited_exports
+}
 
 set_technology = {
 	infantry_weapons = 1
