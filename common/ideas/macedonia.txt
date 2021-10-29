@@ -1,0 +1,36 @@
+ideas = {
+    country = {
+        pro_bulgarian_sentiment = {
+
+            picture = bul_second_national_catastrophe
+
+            allowed = {
+                original_tag = MAC
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                stability_factor = -0.2
+                political_power_gain = -0.3 
+
+            }
+        }
+        vmro = {
+
+            picture = bul_imro
+
+            allowed = {
+                original_tag = MAC
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                stability_factor = 0.05
+                war_support_factor = 0.2
+                opinion_gain_monthly_factor = -0.15
+            }
+        }
+    }
+}
