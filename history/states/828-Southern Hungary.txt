@@ -1,0 +1,20 @@
+state={
+	id=828
+	name="STATE_828"
+
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = HUN
+
+	}
+	provinces={
+		6670 6700 11625 
+	}
+	manpower=38860
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
