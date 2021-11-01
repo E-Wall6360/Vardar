@@ -55,7 +55,9 @@ country_event = {
 	
 	trigger = {
 		original_tag = YUG
-		YUG = { owns_state = 45 }
+		NOT = { 
+			VOJ = { owns_state = 45 }
+		}
 	}	
 
 	mean_time_to_happen = {
